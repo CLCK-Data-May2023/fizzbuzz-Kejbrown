@@ -1,4 +1,3 @@
-# add your code here
 statement1 = "Fizz"
 statement2 = "Buzz"
 
